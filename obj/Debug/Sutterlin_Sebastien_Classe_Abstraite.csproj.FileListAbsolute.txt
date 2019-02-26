@@ -1,0 +1,7 @@
+C:\Users\Seb\source\repos\Sutterlin_Sebastien_Classe_Abstraite\bin\Debug\Sutterlin_Sebastien_Classe_Abstraite.exe.config
+C:\Users\Seb\source\repos\Sutterlin_Sebastien_Classe_Abstraite\bin\Debug\Sutterlin_Sebastien_Classe_Abstraite.exe
+C:\Users\Seb\source\repos\Sutterlin_Sebastien_Classe_Abstraite\bin\Debug\Sutterlin_Sebastien_Classe_Abstraite.pdb
+C:\Users\Seb\source\repos\Sutterlin_Sebastien_Classe_Abstraite\obj\Debug\Sutterlin_Sebastien_Classe_Abstraite.csprojAssemblyReference.cache
+C:\Users\Seb\source\repos\Sutterlin_Sebastien_Classe_Abstraite\obj\Debug\Sutterlin_Sebastien_Classe_Abstraite.csproj.CoreCompileInputs.cache
+C:\Users\Seb\source\repos\Sutterlin_Sebastien_Classe_Abstraite\obj\Debug\Sutterlin_Sebastien_Classe_Abstraite.exe
+C:\Users\Seb\source\repos\Sutterlin_Sebastien_Classe_Abstraite\obj\Debug\Sutterlin_Sebastien_Classe_Abstraite.pdb
